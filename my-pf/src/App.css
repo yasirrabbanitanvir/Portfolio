@@ -1,5 +1,3 @@
-/* App.css */
-
 /* Global variables */
 :root {
   --box-shadow: 5px 5px 10px 10px rgba(221, 23, 132, 0.5);
@@ -95,7 +93,8 @@ body {
   border-radius: 4px;
   padding: 20px;
   margin: 10px;
-  width: calc(33.333% - 40px);
+  width: calc(100% / 3 - 40px); /* Responsive adjustment */
+  max-width: 300px; 
   box-sizing: border-box;
   text-align: center;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -150,7 +149,8 @@ body {
   border-radius: 4px;
   padding: 20px;
   margin: 10px;
-  width: calc(33.333% - 40px);
+  width: calc(100% / 3 - 40px); /* Responsive adjustment */
+  max-width: 300px; 
   box-sizing: border-box;
   text-align: center;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -362,4 +362,19 @@ body {
   font-size: 1em;
   margin-bottom: 15px;
   text-align: center;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .skill-item,
+  .project-item {
+    width: calc(50% - 40px); 
+  }
+}
+
+@media (max-width: 576px) {
+  .skill-item,
+  .project-item {
+    width: calc(100% - 40px); 
+  }
 }
