@@ -1,0 +1,20 @@
+[
+    {
+      "role": "Web Developer",
+      "company": "Tech Corp",
+      "duration": "Jan 2023 - Jun 2023",
+      "description": "Upwork Contract"
+    },
+    {
+      "role": "Frontend Developer",
+      "company": "Web Solutions",
+      "duration": "Jun 2023 - July 2023",
+      "description": "Upwork Contract"
+    },
+    {
+      "role": "Web Developer",
+      "company": "Startup Inc. BD",
+      "duration": "Dec 2023 - Feb 2024",
+      "description": "Upwork Contract"
+    }
+  ]
