@@ -42,7 +42,7 @@ const Home = () => {
                 </h2>
               </div>
               <p 
-                style={{ fontSize: "1.1rem", marginTop: "10px" }}
+                style={{ fontSize: "1.1rem", marginTop: "10px", fontFamily: "Roboto Mono, monospace" }}
                 data-aos="fade-left"
               >
                 <strong>Frontend Developer</strong> | JavaScript | React.js

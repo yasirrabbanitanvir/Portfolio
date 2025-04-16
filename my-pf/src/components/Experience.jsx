@@ -1,6 +1,6 @@
 import React from "react";
-import experienceData from "../data/experience.json"; 
-import "../App.css"; 
+import experienceData from "../data/experience.json";
+import "../App.css";
 
 const Experience = () => {
   return (
@@ -11,9 +11,9 @@ const Experience = () => {
           {experienceData.map((experience, index) => (
             <div key={index} className="experience-item">
               <h3>{experience.role}</h3>
-              <h4>{experience.company}</h4>
-              <p className="duration">{experience.duration}</p>
-              <p>{experience.description}</p>
+              <h5 className="mono-style">{experience.company}</h5>
+              <p className="mono-style">{experience.duration}</p>
+              <p className="mono-style">{experience.description}</p>
             </div>
           ))}
         </div>

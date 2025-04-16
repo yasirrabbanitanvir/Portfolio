@@ -11,7 +11,7 @@ const Projects = () => {
           {projectsData.map((project, index) => (
             <div key={index} className="project-item">
               <h3>{project.name}</h3>
-              <p>{project.description}</p>
+              <p className="project-description">{project.description}</p>
               <a href={project.link} target="_blank" rel="noopener noreferrer">View Project</a>
             </div>
           ))}

@@ -208,6 +208,7 @@ section h2 {
 
 .contact-details p {
   text-align: center;
+  font-family: 'Roboto Mono', monospace;
   margin-bottom: 40px;
   font-size: 20px;
   color: var(--text-gold);
@@ -248,4 +249,16 @@ button[type="submit"]:hover {
     margin: 10px 0;
     text-align: center;
   }
+}
+
+.project-description {
+  font-family: 'Roboto Mono', monospace;
+}
+
+.skill-level {
+  font-family: 'Roboto Mono', monospace;
+}
+
+.mono-style {
+  font-family: 'Roboto Mono', monospace;
 }
