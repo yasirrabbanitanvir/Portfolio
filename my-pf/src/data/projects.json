@@ -2,7 +2,7 @@
     {
       "name": "TreeLife",
       "description": "A web app built with React and Tailwind CSS, integrated with IoT and ML to solve real-life problems. It allows users to monitor and control multiple gardens while providing fertilizer suggestions.",
-      "link": "tree-life.vercel.app/"
+      "link": "https://tree-life.vercel.app/"
     },
 
     {
