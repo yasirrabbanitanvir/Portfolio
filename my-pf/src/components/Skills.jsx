@@ -1,6 +1,6 @@
 import React from "react";
-import skillsData from "../data/skills.json"; // Corrected import path
-import "../App.css"; // Adjust the path if necessary
+import skillsData from "../data/skills.json"; 
+import "../App.css"; 
 
 const Skills = () => {
   return (

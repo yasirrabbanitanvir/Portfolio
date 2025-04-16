@@ -1,6 +1,6 @@
 import React from "react";
-import projectsData from "../data/projects.json"; // Adjust the path as needed
-import "../App.css"; // Make sure to import the CSS file
+import projectsData from "../data/projects.json"; 
+import "../App.css";
 
 const Projects = () => {
   return (

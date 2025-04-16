@@ -1,6 +1,6 @@
 import React from "react";
-import experienceData from "../data/experience.json"; // Adjust the path as needed
-import "../App.css"; // Make sure to import the CSS file
+import experienceData from "../data/experience.json"; 
+import "../App.css"; 
 
 const Experience = () => {
   return (
