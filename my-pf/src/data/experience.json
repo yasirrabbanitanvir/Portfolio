@@ -1,6 +1,6 @@
 [
     {
-      "role": "Web Developer",
+      "role": "Junior Frontend Developer",
       "company": "Tech Corp",
       "duration": "Jan 2023 - Jun 2023",
       "description": "Upwork Contract"
@@ -12,8 +12,8 @@
       "description": "Upwork Contract"
     },
     {
-      "role": "Web Developer",
-      "company": "Startup Inc. BD",
+      "role": "Frontend Developer",
+      "company": "Startup Inc.",
       "duration": "Dec 2023 - Feb 2024",
       "description": "Upwork Contract"
     }

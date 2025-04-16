@@ -1,34 +1,32 @@
 [
     {
+      "name": "TreeLife",
+      "description": "A web app built with React and Tailwind CSS, integrated with IoT and ML to solve real-life problems. It allows users to monitor and control multiple gardens while providing fertilizer suggestions.",
+      "link": "tree-life.vercel.app/"
+    },
+
+    {
       "name": "Khudalagsebd",
-      "description": "Fully responsive food website, built using HTML CSS and JavaScript.",
+      "description": "Fully responsive food website, built using HTML CSS JavaScript for front end and PHP for backend.",
       "link": "https://khudalagsebd.online/"
     },
 
     {
       "name": "Blogwebsite",
-      "description": "Designed a responsive single page application, based on the reference design provided by Web Team - Round 1 | IEEE R10 YP GEMS Team",
-      "link": "https://github.com/yasirrabbanitanvir/Blogwebsite"
+      "description": "Developed a dynamic blog website utilizing React.js and Bootstrap showcasing proficiency in modern web development frameworks and responsive design principles.",
+      "link": "https://blogwebsite-ruby.vercel.app/"
     },
 
     {
-      "name": "Admissionpubdinfo",
-      "description": "WordPress Website.",
-      "link": "https://github.com/yasirrabbanitanvir/Admissionpubdinfo"
-    },
-
-    {
-      "name": "tASKDW2",
-      "description": "A task was provided by DhakaWork.",
-      "link": "yasirrabbanitanvir.github.io/tASKDW2/"
+      "name": "DizmePortfolio",
+      "description": "Created a clone of the Dizme template using React.js and Tailwind CSS.",
+      "link": "https://dizme-chi.vercel.app/"
     },
 
     {
       "name": "YGadget",
       "description": "Fully responsive ecommerce website, built using HTML CSS and JavaScript.",
-      "link": "yasirrabbanitanvir.github.io/YGadget/"
+      "link": "https://yasirrabbanitanvir.github.io/YGadget/"
     }
 
-
-  ]
-  
+  ] 
