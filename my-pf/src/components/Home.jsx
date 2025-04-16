@@ -28,7 +28,7 @@ const Home = () => {
             </div>
             <div className="col-md-8 text-md-start text-center">
               <h1 
-                style={{ fontSize: "2.5rem", fontWeight: "700", color: "#4B0082" }}
+                style={{ fontSize: "2.5rem", fontWeight: "700" }}
                 data-aos="fade-left"
               >
                 Welcome to My Portfolio
@@ -42,7 +42,7 @@ const Home = () => {
                 </h2>
               </div>
               <p 
-                style={{ fontSize: "1.1rem", color: "#555", marginTop: "10px" }}
+                style={{ fontSize: "1.1rem", marginTop: "10px" }}
                 data-aos="fade-left"
               >
                 <strong>Frontend Developer</strong> | JavaScript | React.js
